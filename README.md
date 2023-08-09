@@ -6,7 +6,7 @@ Simple all-purpose D3D9 Hooking
 * Device loss handling
 * Works in any D3D9 application
 
-Some games recreate devices, other don't.
+Some games recreate devices, other don't.<br/>
 EasyD3D9Hook handles both ways of hooking updated devices.
 
 ### Contributors
